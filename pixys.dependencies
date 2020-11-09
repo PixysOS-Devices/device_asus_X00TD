@@ -1,13 +1,13 @@
 [
   {
     "remote":"github",
-    "branch":"ten",
+    "branch":"eleven",
     "repository": "PixysOS-devices/kernel_asus_sdm660",
     "target_path": "kernel/asus/sdm660"
   },
   {
     "remote":"github",
-    "branch":"ten",
+    "branch":"eleven",
     "repository": "PixysOS-devices/vendor_asus",
     "target_path": "vendor/asus"
   }
