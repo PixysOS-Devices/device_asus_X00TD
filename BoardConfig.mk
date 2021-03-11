@@ -24,3 +24,9 @@ TARGET_KERNEL_CONFIG := X00TD_defconfig
 
 # Inherit the proprietary files
 -include vendor/asus/X00TD/BoardConfigVendor.mk
+
+#Broken Rules
+BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
+BUILD_BROKEN_PREBUILT_ELF_FILES := true
+BUILD_BROKEN_VINTF_PRODUCT_COPY_FILES := true
+BUILD_BROKEN_DUP_RULES := true
