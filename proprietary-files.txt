@@ -69,6 +69,10 @@ vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
 vendor/etc/acdbdata/adsp_avs_config.acdb
 
+# ANT+ - from LA.UM.9.12.r1-10800-SMxx50.0
+vendor/lib/hw/com.dsi.ant@1.0-impl.so|0878e6b855e4b7495214bca404f13de9053b52f6
+vendor/lib64/hw/com.dsi.ant@1.0-impl.so|68131dd2db0df81301d390dc1412bfe7ee54915b
+
 # Audio firmware
 vendor/firmware/tfa98xx.cnt
 
