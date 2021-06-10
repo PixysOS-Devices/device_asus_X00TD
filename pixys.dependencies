@@ -10,8 +10,13 @@
     "branch": "eleven"
   },
   {
-    "repository": "vendor_asus",
-    "target_path": "vendor/asus",
+    "repository": "vendor_asus_sdm660-common",
+    "target_path": "vendor/asus/sdm660-common",
+    "branch": "eleven"
+  },
+  {
+    "repository": "vendor_asus_X00TD",
+    "target_path": "vendor/asus/X00TD",
     "branch": "eleven"
   },
   {
