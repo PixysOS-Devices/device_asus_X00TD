@@ -21,6 +21,9 @@ TARGET_GAPPS_ARCH := arm64
 # Google Recorder
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 
+# Live Wallpaper
+TARGET_INCLUDE_LIVE_WALLPAPERS := false
+
 # Inherit from X00TD device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
