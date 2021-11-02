@@ -434,8 +434,8 @@ PRODUCT_PACKAGES += \
     qti_telephony_utils.xml \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
-    telephony-ext
+#PRODUCT_BOOT_JARS += \
+#    telephony-ext
 
 # Thermal
 PRODUCT_PACKAGES += \
@@ -493,8 +493,8 @@ PRODUCT_PACKAGES += \
     libnl \
     libstagefright_enc_common
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#PRODUCT_BOOT_JARS += \
+#    WfdCommon
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/asus/X00TD/X00TD-vendor.mk)
