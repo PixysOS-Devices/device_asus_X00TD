@@ -55,8 +55,6 @@ DEVICE_MATRIX_FILE := $(DEVICE_PATH)/compatibility_matrix.xml
 TARGET_USES_QTI_CAMERA_DEVICE := true
 
 # Display
-OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
-
 TARGET_SCREEN_DENSITY := 420
 TARGET_USES_GRALLOC1 := true
 TARGET_USES_HWC2 := true
