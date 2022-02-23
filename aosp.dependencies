@@ -2,7 +2,7 @@
   {
     "repository": "kernel_asus_sdm660",
     "target_path": "kernel/asus/sdm660",
-    "branch": "twelve"
+    "branch": "twelve-x00td"
   },
   {
     "repository": "vendor_asus_X00TD",
