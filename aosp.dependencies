@@ -2,18 +2,17 @@
   {
     "repository": "kernel_asus_sdm660",
     "target_path": "kernel/asus/sdm660",
-    "branch": "twelve-x00td"
+    "branch": "twelve"
   },
   {
     "repository": "vendor_asus_X00TD",
     "target_path": "vendor/asus/X00TD",
-    "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "branch": "twelve"
   },
   {
-    "repository": "Subinsmani/packages_apps_GoogleCameraGoEdition",
+    "repository": "AnandSuresh02/packages_apps_GoogleCameraGoEdition",
     "target_path": "packages/apps/GoogleCameraGoEdition",
-    "branch": "eleven",
+    "branch": "main",
     "remote": "github"
   }
 ]
