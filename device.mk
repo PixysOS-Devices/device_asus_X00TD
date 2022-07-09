@@ -178,7 +178,7 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@3.0.vendor
 
 # GoogleCameraGo
-#$(call inherit-product, packages/apps/GoogleCameraGoEdition/GoogleCameraGoEdition.mk)
+$(call inherit-product, packages/apps/GoogleCameraGoEdition/GoogleCameraGoEdition.mk)
 
 # GPS
 PRODUCT_PACKAGES += \
