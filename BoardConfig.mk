@@ -53,8 +53,6 @@ DEVICE_FRAMEWORK_MANIFEST_FILE := $(DEVICE_PATH)/framework_manifest.xml
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 DEVICE_MATRIX_FILE := $(DEVICE_PATH)/compatibility_matrix.xml
 
-# Camera
-TARGET_USES_QTI_CAMERA_DEVICE := true
 
 # Display
 TARGET_SCREEN_DENSITY := 420
