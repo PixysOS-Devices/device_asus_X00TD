@@ -19,7 +19,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
 # Live Wallpaper
-TARGET_INCLUDE_LIVE_WALLPAPERS := false
+TARGET_INCLUDE_LIVE_WALLPAPERS := true
 
 # Inherit from X00TD device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
