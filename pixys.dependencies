@@ -8,11 +8,5 @@
     "repository": "vendor_asus_X00TD",
     "target_path": "vendor/asus/X00TD",
     "branch": "twelve"
-  },
-  {
-    "repository": "AnandSuresh02/packages_apps_GoogleCameraGoEdition",
-    "target_path": "packages/apps/GoogleCameraGoEdition",
-    "branch": "main",
-    "remote": "github"
   }
 ]
