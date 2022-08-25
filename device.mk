@@ -131,6 +131,8 @@ PRODUCT_PACKAGES += \
     libtinyxml \
     libqdMetaData \
     libqdMetaData.vendor
+    vendor.display.config@2.0 \
+    vendor.display.config@2.0.vendor
 
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl \
