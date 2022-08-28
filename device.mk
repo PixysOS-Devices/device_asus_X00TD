@@ -145,8 +145,8 @@ PRODUCT_PACKAGES += \
     android.frameworks.displayservice@1.0.vendor
 
 # Doze mode
-#PRODUCT_PACKAGES += \
-#    Doze
+PRODUCT_PACKAGES += \
+    Doze
 
 # DRM
 PRODUCT_PACKAGES += \
