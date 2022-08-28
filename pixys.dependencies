@@ -8,5 +8,11 @@
     "repository": "vendor_asus_X00TD",
     "target_path": "vendor/asus/X00TD",
     "branch": "twelve"
+  },
+  {
+    "repository": "PixysOS/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "twelve",
+    "remote": "github"
   }
 ]
