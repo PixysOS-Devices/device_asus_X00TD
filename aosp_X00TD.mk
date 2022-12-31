@@ -15,6 +15,9 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 # Bootanimation
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# Gapps Config
+TARGET_GAPPS_ARCH := arm64
+
 # Inherit from X00TD device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
