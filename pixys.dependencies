@@ -2,6 +2,6 @@
   {
     "repository": "device_asus_sdm660-common",
     "target_path": "device/asus/sdm660-common",
-    "branch": "thirteen"
+    "branch": "thirteen-test"
   }
 ]
